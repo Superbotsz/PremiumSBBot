@@ -26,9 +26,9 @@
 
   - [ ] Add Premium Account for Supporting Premium Videos. 
   
-### Follow me on Youtube
+### For more Tricks
 ---
-  [CvaTricks](https://www.youtube.com/c/cvatricks)
+  - Subscribe [YouTube Channel](https://www.youtube.com/c/cvatricks) to get more tricks.
 
 ### LICENSE
 - GPLv3
