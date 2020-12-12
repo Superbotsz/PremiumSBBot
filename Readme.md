@@ -29,6 +29,8 @@
 ### For more Tricks
 ---
   - Subscribe [YouTube Channel](https://www.youtube.com/c/cvatricks) to get more tricks.
+  
+  - Join [Telegram Channel](https://t.me/Super_botz) to get more Bots and their updates.
 
 ### LICENSE
 - GPLv3
