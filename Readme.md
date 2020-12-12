@@ -25,6 +25,10 @@
 - AHA 
 
   - [ ] Add Premium Account for Supporting Premium Videos. 
+  
+### Follow me on Youtube
+---
+  [CvaTricks](https://www.youtube.com/c/cvatricks)
 
 ### LICENSE
 - GPLv3
